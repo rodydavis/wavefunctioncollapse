@@ -1,6 +1,6 @@
 # wavefunctioncollapse
 
-Javascript port of https://github.com/mxgmn/WaveFunctionCollapse
+Typescript port of https://github.com/kchapelier/wavefunctioncollapse
 
 - [Interactive OverlappingModel demo](http://www.kchapelier.com/wfc-example/overlapping-model.html)
 - [Interactive SimpleTiledModel demo](http://www.kchapelier.com/wfc-example/simple-tiled-model.html)
